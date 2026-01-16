@@ -33,3 +33,4 @@ https://degen-scan.com
 DegenScan is currently in active development.
 
 More updates coming soon.
+.
